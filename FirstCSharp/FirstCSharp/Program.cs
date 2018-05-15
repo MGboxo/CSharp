@@ -10,9 +10,17 @@ namespace FirstCSharp
     {
         static void Main(string[] args)
         {
+         //############################################
+            //Lesson 1
             Console.WriteLine("Cerber");
             Console.WriteLine(DateTime.Now);
-            
+         //############################################
+            //Lesson 2
+            //Brak użytkowania przestrzeni nazw System
+
+            //System.Console.WriteLine("Cerber");
+            //System.Console.WriteLine(DateTime.Now);
+         //############################################
         }
     }
 }
