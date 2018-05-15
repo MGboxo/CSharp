@@ -10,6 +10,8 @@ namespace FirstCSharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Cerber");
+            Console.WriteLine(DateTime.Now);
             
         }
     }
