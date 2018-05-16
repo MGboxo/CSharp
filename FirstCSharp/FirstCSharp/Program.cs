@@ -22,8 +22,8 @@ namespace FirstCSharp
             //System.Console.WriteLine(DateTime.Now);
             //############################################
             //Lesson 3
-            String Name = args[0];
-            Console.WriteLine("Witaj, " + Name);
+            //String Name = args[0];
+            //Console.WriteLine("Witaj, " + Name);
             //Lesson 3.5
             foreach (var item in args)
             {
