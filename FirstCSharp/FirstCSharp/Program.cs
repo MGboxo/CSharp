@@ -14,13 +14,16 @@ namespace FirstCSharp
             //Lesson 1
             Console.WriteLine("Cerber");
             Console.WriteLine(DateTime.Now);
-         //############################################
+            //############################################
             //Lesson 2
             //Brak użytkowania przestrzeni nazw System
 
             //System.Console.WriteLine("Cerber");
             //System.Console.WriteLine(DateTime.Now);
-         //############################################
+            //############################################
+            //Lesson 3
+            String Name = args;
+            Console.WriteLine("Witaj " + Name);
         }
     }
 }
