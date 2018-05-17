@@ -12,23 +12,23 @@ namespace FirstCSharp
         {
             //############################################
 
-            //Lesson 1
+            //Lesson 1 [Pierwsze komendy]
             Console.WriteLine("Hello");
             Console.WriteLine(DateTime.Now);
             //############################################
 
-            //Lesson 2
+            //Lesson 2 [Przydatność przestrzeni nazw]
             //Brak użytkowania przestrzeni nazw System
             //System.Console.WriteLine("Cerber");
             //System.Console.WriteLine(DateTime.Now);
             //############################################
 
-            //Lesson 3
+            //Lesson 3 [Stringi i argumenty]
             String Name = args[0];
             Console.WriteLine("Witaj, " + Name);
             //############################################
 
-            //Lesson 3.5
+            //Lesson 3.5 [Pierwsza pętla]
             //foreach (var item in args)
             //{
             //    Console.WriteLine("witaj, " + item);
